@@ -12,7 +12,7 @@ jobs:
 
     strategy:
       matrix:
-        configuration: [Debug, Release]
+        configuration: [Release]
 
     steps:
     - name: Checkout code
