@@ -6,6 +6,8 @@
         [TestMethod]
         public void TestMethod1()
         {
+            //fail
+            Assert.Fail("This test has not been implemented yet.");
         }
     }
 }
